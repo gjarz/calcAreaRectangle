@@ -18,7 +18,8 @@ public class Main {
                         area = height * width;
                         System.out.println("Die Fläche des Rechtecks beträgt: " + area);
                         break;
-            case 2:
+            case 2:     System.out.println("Funktion wird nie verfügbar sein.");
+                        break;
             case 3:     System.out.println("Funktion noch nicht verfügbar.");
                         break;
             default:    System.out.println("Falsche Eingabe!");
