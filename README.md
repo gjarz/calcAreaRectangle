@@ -22,7 +22,6 @@
 
 Beschreibe hier ausführlich:
 - **Ziel der Applikation:** Was soll die App leisten?
-- **Zielgruppe:** Für wen wurde sie entwickelt?
 - **Hauptfunktionen:** Was kann die App?
 
 ---
@@ -94,23 +93,6 @@ ionic serve
 ```
 
 > **Hinweis:** [Optionale Hinweise, z. B. API-Key benötigt, `.env`-Datei anlegen, etc.]
-
----
-
-## 📁 Projektstruktur
-
-```
-[repo-name]/
-├── src/
-│   ├── app/
-│   │   ├── [komponente]/
-│   │   └── ...
-│   ├── assets/
-│   └── ...
-├── screenshot.png
-├── README.md
-└── package.json
-```
 
 ---
 
