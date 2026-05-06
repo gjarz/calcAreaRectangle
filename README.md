@@ -1,4 +1,4 @@
-# 📱 [App-Name]
+# [App-Name]
 
 > Kurze Beschreibung der Applikation – Was macht sie? Für wen ist sie gedacht?
 
