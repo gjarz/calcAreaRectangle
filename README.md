@@ -31,6 +31,7 @@ Beschreibe hier ausführlich:
 > Füge hier einen Screenshot der laufenden Applikation ein.
 
 ![Screenshot der App](./screenshot.png)
+![Screenshot 2 der App](./screenshot2.png)
 
 <!-- So fügst du einen Screenshot ein:
      1. Screenshot erstellen und als "screenshot.png" im Projektordner speichern
