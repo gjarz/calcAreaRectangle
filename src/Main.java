@@ -1,9 +1,9 @@
-import java.util.Scanner;
-
 /*
 Titel: Rechteck Eingabe der Seiten und Flächenberechnung
 Autor: Gerhard Jarz      | 05.05.2026
  */
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         int height, width, area, decision;
