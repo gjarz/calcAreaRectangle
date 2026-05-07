@@ -1,4 +1,4 @@
-# [App-Name]
+# Rechteck Flächenrechner
 
 > Kurze Beschreibung der Applikation – Was macht sie? Für wen ist sie gedacht?
 
@@ -32,6 +32,7 @@ Beschreibe hier ausführlich:
 
 ![Screenshot der App](./screenshot.png)
 ![Screenshot 2 der App](./screenshot2.png)
+![Screenshot 3 Commits](./screenshot3.png)
 
 <!-- So fügst du einen Screenshot ein:
      1. Screenshot erstellen und als "screenshot.png" im Projektordner speichern
